@@ -2,3 +2,4 @@
 Samarbeidsoppgave i studie Programmering 2
 
 Jarle Børnes
+Thorbjørn Hellehaven
